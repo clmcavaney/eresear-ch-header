@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: eresear.ch header
-Plugin URI: <TBC>
+Plugin URI: https://github.com/clmcavaney/eresear-ch-header
 Description: This plugin modifies the header of YOURLS, specifically for the eResearch shorten URL service (https://eresear.ch)
 Version: 1.0
 Author: Christopher McAvaney
